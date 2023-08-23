@@ -3,6 +3,7 @@
 1.	Версия Java – Java 11.
 2.	Версия сборки Maven - Apache Maven 4.0.0.
 Пример запуска программы через аргументы командной строки:
+
    E:\mergeSort\target>java -jar merge-sort-1.0-SNAPSHOT.jar -a -i E:\out.txt E:\ in1.txt E:\ in2.txt E:\ in3.txt
 
 Где:
