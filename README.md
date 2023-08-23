@@ -6,6 +6,7 @@
    E:\mergeSort\target>java -jar merge-sort-1.0-SNAPSHOT.jar -a -i E:\out.txt E:\ in1.txt E:\ in2.txt E:\ in3.txt
 
 Где:
+
 а)  E:\ merge-sort\target> - указывается путь, расположения нашего приложения;
 
 б)  java -jar merge-sort-1.0-SNAPSHOT.jar – запуск самого приложения;
